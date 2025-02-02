@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelomopekun
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning EDA
+- 👀 Aspiring Data scientist
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on a data related project
 - 📫 How to reach me www.linkedin.com/in/michael-omopekun-6308b6281
 - 😄 Pronouns: He/Him
